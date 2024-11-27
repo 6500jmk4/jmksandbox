@@ -1,0 +1,35 @@
+email:
+  id: 'jason@jasonmkelly.com'
+  href: 'mailto:jason@jasonmkelly.com'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+mastodon:
+  id: '@jason_m_kelly'
+  href: 'https://fediscience.org/'
+  title: 'Mastodon'
+  fa-icon: 'fab fa-mastodon'
+
+bluesky:
+  id: '@jasonmkelly.bsky.social'
+  href: 'https://bsky.app/'
+  title: 'Bluesky'
+  fa-icon: 'fab fa-bluesky'
+
+github:
+  id: '6500jmk4'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+instagram:
+  id: 'longeighteenthcentury'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
+
+linkedin:
+  id: 'jasonmkellylinkedin'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
