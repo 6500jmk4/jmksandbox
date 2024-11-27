@@ -23,14 +23,14 @@ email: 6500jmk4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the sandbox site that accompanies the primary site for Dr. Jason M. Kelly (jasonmkelly.com). You will find digital humanities experiments, teaching materials, and a variety of materials related to my professional and personal interests. 
 
-baseurl: "jmksandbox" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jason_m_kelly
 github_username:  6500jmk4
 linkedin_username: jason_m_kelly
 
 # Build settings
 theme: just-the-docs
+remote-theme: just-the-docs
 plugins:
   - jekyll-feed
 
